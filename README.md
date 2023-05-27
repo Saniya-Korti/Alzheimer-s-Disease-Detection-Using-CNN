@@ -1,7 +1,6 @@
 # Alzheimer-s-Disease-Detection-Using-Cnn
 
 - [x] Alzheimer’s Disease Detection Using CNN |Major Project
-- [x] JUNE 2022 – OCT 2022
 
 - [x] The proposed architecture extracts the hippocampus region from the inputted MRI scans.Worked on multi-class                 classification and neural network.
 
