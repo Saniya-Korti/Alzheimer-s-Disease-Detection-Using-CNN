@@ -2,10 +2,15 @@
 
 - [x] Alzheimer’s Disease Detection Using CNN |Major Project
 
-- [x] The proposed architecture extracts the hippocampus region from the inputted MRI scans.Worked on multi-class                 classification and neural network.
 
-- [x] The dataset is taken from kaggle which consists of 2 folders, test and train, each folder has 4 classes of Alzheimer’s Disease i.e, Mild Demented, VeryMild Demented, Non       Demented, Moderate Demented.
+- [x] Developed an Alzheimer's disease detection model using Convolutional Neural Networks (CNN), leveraging deep learning techniques to analyze brain imaging data and 
+      accurately classify Alzheimer's disease cases with high precision and recall rates.
 
-- [x] Achieved an accuracy of 92.92%
+- [x] Preprocessed and augmented large-scale brain MRI datasets, employing advanced techniques such as image normalization, cropping, and data augmentation to enhance model          performance and handle variations in brain images.
+
+- [x] Conducted rigorous model evaluation and validation, utilizing appropriate performance metrics such as accuracy, precision, recall, and F1 score, demonstrating the 
+      robustness and reliability of the CNN-based Alzheimer's disease detection system.
+
+- [x] Applied CNN to produce a final model with an accuracy of 92.92%.
 
 - [x] To run the application do run the file app.py. 
